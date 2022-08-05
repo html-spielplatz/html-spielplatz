@@ -1,3 +1,5 @@
+import { PowerGlitch } from 'powerglitch'
+
 PowerGlitch.glitch(
     'img.glitch',
     {
