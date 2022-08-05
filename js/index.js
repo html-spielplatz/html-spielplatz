@@ -1,0 +1,1 @@
+PowerGlitch.glitch('img.glitch')
